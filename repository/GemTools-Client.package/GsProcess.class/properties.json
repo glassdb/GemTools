@@ -1,0 +1,14 @@
+{
+	"category" : "GemTools-Client-Kernel-Proxies",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"UsePopUpOnDebug" ],
+	"commentStamp" : "",
+	"instvars" : [
+		"stack" ],
+	"name" : "GsProcess",
+	"pools" : [
+		 ],
+	"super" : "GsObject",
+	"type" : "normal" }

@@ -1,0 +1,14 @@
+{
+	"category" : "GemTools-Help",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "OGCmdTutorialMenu",
+	"pools" : [
+		 ],
+	"super" : "OGCmdLauncher",
+	"type" : "normal" }

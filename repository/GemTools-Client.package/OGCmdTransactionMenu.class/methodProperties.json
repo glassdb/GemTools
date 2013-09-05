@@ -1,0 +1,16 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"autoAbortOff" : "dkh 11/2/2009 14:25",
+		"autoAbortOn" : "dkh 11/2/2009 14:25",
+		"autoMigrateOff" : "obi 1/5/2009 12:42",
+		"autoMigrateOn" : "obi 1/5/2009 12:41",
+		"execute" : "dkh 11/2/2009 14:49",
+		"group" : "obi 12/26/2008 20:53",
+		"label" : "dkh 4/6/2009 17:22",
+		"longDescription" : "obi 12/26/2008 20:49",
+		"order" : "obi 12/26/2008 20:52",
+		"startLongTransaction" : "obi 12/26/2008 21:43",
+		"stopLongTransaction" : "obi 12/26/2008 21:43",
+		"wantsButton" : "obi 12/26/2008 20:45" } }

@@ -1,0 +1,20 @@
+{
+	"class" : {
+		"shiftedYellowButtonMenu" : "dkh 8/22/2007 00:15",
+		"yellowButtonMenu" : "dkh 8/22/2007 00:49" },
+	"instance" : {
+		"browseIt" : "dkh 3/30/2009 12:16",
+		"debugIt" : "dkh 3/30/2009 13:10",
+		"doIt" : "dkh 3/30/2009 12:17",
+		"exploreIt" : "dkh 3/30/2009 12:17",
+		"implementorsOfIt" : "dkh 3/30/2009 12:36",
+		"inspectIt" : "dkh 3/30/2009 12:17",
+		"methodStringsContainingit" : "dkh 3/30/2009 12:36",
+		"objectsReferencingIt" : "dkh 2/20/2009 16:17",
+		"performOnServer:" : "dkh 3/30/2009 13:12",
+		"printIt" : "dkh 3/30/2009 12:17",
+		"referencesToIt" : "dkh 3/30/2009 12:37",
+		"reportCompilerError:for:" : "dkh 3/30/2009 12:37",
+		"selectedSelector" : "dkh 2/20/2009 16:17",
+		"selectedSymbol" : "dkh 2/20/2009 16:17",
+		"sendersOfIt" : "dkh 3/30/2009 12:38" } }

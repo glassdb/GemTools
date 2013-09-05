@@ -1,0 +1,14 @@
+{
+	"category" : "GemTools-Client-Launcher",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "OGCmdUpdateGLASSClient",
+	"pools" : [
+		 ],
+	"super" : "OGCmdUpdate",
+	"type" : "normal" }

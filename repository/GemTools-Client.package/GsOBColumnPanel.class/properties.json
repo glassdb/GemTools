@@ -1,0 +1,14 @@
+{
+	"category" : "GemTools-Client-OG",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"columns" ],
+	"name" : "GsOBColumnPanel",
+	"pools" : [
+		 ],
+	"super" : "GsOBPanel",
+	"type" : "normal" }

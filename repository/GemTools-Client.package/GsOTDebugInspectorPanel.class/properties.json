@@ -1,0 +1,15 @@
+{
+	"category" : "GemTools-Client-OG",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"receiverInspector",
+		"contextInspector" ],
+	"name" : "GsOTDebugInspectorPanel",
+	"pools" : [
+		 ],
+	"super" : "GsOBPanel",
+	"type" : "normal" }

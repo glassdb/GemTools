@@ -1,0 +1,4 @@
+oop acessing
+GSName
+
+	^'MDVersionPanel'

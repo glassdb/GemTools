@@ -1,0 +1,3 @@
+configuration
+defaultRootNode
+	^ OGWorkspaceNode new

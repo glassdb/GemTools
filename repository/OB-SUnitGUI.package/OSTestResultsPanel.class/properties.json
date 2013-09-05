@@ -1,0 +1,14 @@
+{
+	"category" : "OB-SUnitGUI-Panels",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"text" ],
+	"name" : "OSTestResultsPanel",
+	"pools" : [
+		 ],
+	"super" : "OBTextPanel",
+	"type" : "normal" }

@@ -1,0 +1,5 @@
+Browser
+thisClass
+	
+	^self.
+	

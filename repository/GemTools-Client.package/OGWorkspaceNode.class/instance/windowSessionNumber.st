@@ -1,0 +1,4 @@
+accessing
+windowSessionNumber
+
+	^self sessionNode windowSessionNumber

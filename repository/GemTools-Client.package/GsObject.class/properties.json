@@ -1,0 +1,15 @@
+{
+	"category" : "GemTools-Client-Kernel-Proxies",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"session",
+		"oopType" ],
+	"name" : "GsObject",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

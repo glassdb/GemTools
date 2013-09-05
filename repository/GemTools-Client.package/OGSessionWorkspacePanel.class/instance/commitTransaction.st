@@ -1,0 +1,4 @@
+actions
+commitTransaction
+
+	self browser currentNode commitTransaction

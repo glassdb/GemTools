@@ -1,0 +1,17 @@
+{
+	"category" : "OB-SUnitGUI-Nodes",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"baseClass",
+		"categories",
+		"browser",
+		"result" ],
+	"name" : "OSTestRunnerNode",
+	"pools" : [
+		 ],
+	"super" : "OBNode",
+	"type" : "normal" }

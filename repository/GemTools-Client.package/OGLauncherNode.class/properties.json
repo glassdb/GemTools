@@ -1,0 +1,14 @@
+{
+	"category" : "GemTools-Client-Launcher",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"Sessions" ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "OGLauncherNode",
+	"pools" : [
+		 ],
+	"super" : "OBNode",
+	"type" : "normal" }

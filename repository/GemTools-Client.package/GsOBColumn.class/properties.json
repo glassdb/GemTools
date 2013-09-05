@@ -1,0 +1,22 @@
+{
+	"category" : "GemTools-Client-OG",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"announcer",
+		"panel",
+		"list",
+		"icons",
+		"listSize",
+		"selection",
+		"switch",
+		"cachedList",
+		"cachedIcons" ],
+	"name" : "GsOBColumn",
+	"pools" : [
+		 ],
+	"super" : "GsObject",
+	"type" : "normal" }

@@ -1,0 +1,14 @@
+{
+	"category" : "GemTools-Client-Launcher",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"root" ],
+	"name" : "OGWorkspace",
+	"pools" : [
+		 ],
+	"super" : "OBBrowser",
+	"type" : "normal" }

@@ -1,0 +1,17 @@
+{
+	"category" : "GemTools-Client-OG",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"column",
+		"isActive",
+		"list",
+		"selection" ],
+	"name" : "GsOBSwitch",
+	"pools" : [
+		 ],
+	"super" : "GsObject",
+	"type" : "normal" }

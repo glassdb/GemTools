@@ -1,0 +1,14 @@
+{
+	"category" : "OB-SUnitGUI-Panels",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"maxMultipleSelectionPanes" ],
+	"name" : "OSMultipleSelectionColumnPanel",
+	"pools" : [
+		 ],
+	"super" : "OBColumnPanel",
+	"type" : "normal" }

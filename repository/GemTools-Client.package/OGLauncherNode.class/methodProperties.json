@@ -1,0 +1,13 @@
+{
+	"class" : {
+		"addSessionWithDescription:" : "DaleHenrichs 1/24/2010 14:06",
+		"sessions" : "dkh 12/24/2008 13:46" },
+	"instance" : {
+		"addSession:" : "dkh 12/22/2008 10:11",
+		"isSessionNode" : "dkh 12/21/2008 12:57",
+		"labelString" : "dkh 12/21/2008 11:03",
+		"name" : "dkh 12/21/2008 14:34",
+		"removeSession:" : "dkh 12/22/2008 12:35",
+		"sessions" : "dkh 12/24/2008 13:46",
+		"updateForStart" : "dkh 3/3/2009 16:02",
+		"windowIsClosing" : "dkh 12/22/2008 12:50" } }

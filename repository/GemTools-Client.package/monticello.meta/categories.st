@@ -1,0 +1,10 @@
+SystemOrganization addCategory: #'GemTools-Client-GCI'!
+SystemOrganization addCategory: #'GemTools-Client-Kernel-Proxies'!
+SystemOrganization addCategory: #'GemTools-Client-Launcher'!
+SystemOrganization addCategory: #'GemTools-Client-Morphic'!
+SystemOrganization addCategory: #'GemTools-Client-OG'!
+SystemOrganization addCategory: #'GemTools-Client-Obsolete'!
+SystemOrganization addCategory: #'GemTools-Client-Session'!
+SystemOrganization addCategory: #'GemTools-Client-ShoutParser'!
+SystemOrganization addCategory: #'GemTools-Client-Tests'!
+SystemOrganization addCategory: #'GemTools-Client-Upgrading'!

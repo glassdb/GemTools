@@ -1,0 +1,14 @@
+{
+	"category" : "GemTools-Client-OG",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "GsOSTestRunner",
+	"pools" : [
+		 ],
+	"super" : "GsOBBrowser",
+	"type" : "normal" }

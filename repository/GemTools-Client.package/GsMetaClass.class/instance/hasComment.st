@@ -1,0 +1,5 @@
+Tools Support
+hasComment
+
+	^false.
+	

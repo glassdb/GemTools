@@ -1,0 +1,14 @@
+{
+	"category" : "GemTools-Client-Obsolete",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "dkh 3/30/2009 11:39",
+	"instvars" : [
+		 ],
+	"name" : "JadeServer",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

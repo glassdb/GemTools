@@ -1,0 +1,14 @@
+{
+	"category" : "OB-SUnitGUI-Commands",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "OSCmdCategoryFilter",
+	"pools" : [
+		 ],
+	"super" : "OSCmdFilter",
+	"type" : "normal" }

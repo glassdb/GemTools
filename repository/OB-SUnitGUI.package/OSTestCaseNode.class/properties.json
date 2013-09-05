@@ -1,0 +1,16 @@
+{
+	"category" : "OB-SUnitGUI-Nodes",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"root",
+		"testCase",
+		"status" ],
+	"name" : "OSTestCaseNode",
+	"pools" : [
+		 ],
+	"super" : "OBNode",
+	"type" : "normal" }

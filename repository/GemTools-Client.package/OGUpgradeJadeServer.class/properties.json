@@ -1,0 +1,14 @@
+{
+	"category" : "GemTools-Client-Upgrading",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "OGUpgradeJadeServer",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

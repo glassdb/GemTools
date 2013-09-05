@@ -1,0 +1,5 @@
+Tools Support
+isMeta
+
+	^true.
+	

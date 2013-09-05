@@ -1,0 +1,14 @@
+{
+	"category" : "GemTools-Client-OG",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"clientText" ],
+	"name" : "GsText",
+	"pools" : [
+		 ],
+	"super" : "GsObject",
+	"type" : "normal" }

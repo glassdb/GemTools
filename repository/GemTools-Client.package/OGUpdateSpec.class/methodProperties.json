@@ -1,0 +1,23 @@
+{
+	"class" : {
+		"GLASS10beta8PostDoit" : "DaleHenrichs 4/16/2010 15:09",
+		"GLASS230dkh182PreDoit" : "dkh 3/8/2009 11:45",
+		"GLASS230dkh208PreDoit" : "dkh 3/8/2009 11:49",
+		"GLASS230dkh220PreDoit" : "dkh 4/3/2009 13:02",
+		"from:" : "dkh 3/1/2009 09:04",
+		"named:" : "dkh 3/1/2009 15:07",
+		"specs" : "DaleHenrichs 3/2/2010 15:15",
+		"updateDict" : "dkh 3/1/2009 09:13",
+		"updateSpecs" : "dkh 3/1/2009 09:03" },
+	"instance" : {
+		"asTextBold:" : "obi 3/4/2009 20:07",
+		"from:" : "dkh 3/1/2009 09:09",
+		"isBeta" : "obi 3/4/2009 19:51",
+		"isBetaAtLeast" : "obi 3/4/2009 19:52",
+		"isLoadable" : "obi 3/4/2009 20:04",
+		"isRelease" : "obi 3/4/2009 19:51",
+		"postDoit" : "dkh 3/1/2009 09:07",
+		"preDoit" : "dkh 3/1/2009 09:06",
+		"printOn:" : "obi 3/2/2009 21:31",
+		"tag" : "dkh 3/1/2009 09:09",
+		"version" : "dkh 3/1/2009 09:06" } }

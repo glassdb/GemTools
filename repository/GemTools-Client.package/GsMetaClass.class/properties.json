@@ -1,0 +1,14 @@
+{
+	"category" : "GemTools-Client-Kernel-Proxies",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"thisClass" ],
+	"name" : "GsMetaClass",
+	"pools" : [
+		 ],
+	"super" : "GsClass",
+	"type" : "normal" }

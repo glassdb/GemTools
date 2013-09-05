@@ -1,0 +1,15 @@
+{
+	"category" : "OB-SUnitGUI-Kernel",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"multipleSelection",
+		"selectedNodes" ],
+	"name" : "OSMultipleSelectionColumn",
+	"pools" : [
+		 ],
+	"super" : "OBColumn",
+	"type" : "normal" }

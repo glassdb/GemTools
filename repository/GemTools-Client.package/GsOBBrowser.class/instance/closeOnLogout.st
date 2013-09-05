@@ -1,0 +1,3 @@
+testing
+closeOnLogout
+	^true

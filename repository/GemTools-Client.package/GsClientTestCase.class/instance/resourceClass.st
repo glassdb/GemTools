@@ -1,0 +1,5 @@
+framework
+resourceClass
+
+	self subclassResponsibility.
+	

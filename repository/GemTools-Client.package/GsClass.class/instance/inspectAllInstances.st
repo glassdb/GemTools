@@ -1,0 +1,3 @@
+Browser
+inspectAllInstances
+	self shouldBeImplemented

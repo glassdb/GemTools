@@ -1,0 +1,4 @@
+class initialization
+shiftedYellowButtonMenu
+
+	^self yellowButtonMenu

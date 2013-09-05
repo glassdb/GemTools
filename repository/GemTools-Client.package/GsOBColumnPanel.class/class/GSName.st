@@ -1,0 +1,4 @@
+oop accessing
+GSName
+
+	^'OBColumnPanel'

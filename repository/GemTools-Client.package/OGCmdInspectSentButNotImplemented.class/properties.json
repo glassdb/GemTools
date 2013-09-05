@@ -1,0 +1,14 @@
+{
+	"category" : "GemTools-Client-Launcher",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "OGCmdInspectSentButNotImplemented",
+	"pools" : [
+		 ],
+	"super" : "OGCmdLauncher",
+	"type" : "normal" }

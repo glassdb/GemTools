@@ -1,0 +1,14 @@
+{
+	"category" : "GemTools-Client-OG",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "GsTextColor",
+	"pools" : [
+		 ],
+	"super" : "GsTextAttribute",
+	"type" : "normal" }

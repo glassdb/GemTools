@@ -1,0 +1,3 @@
+accessing
+buttonLabelWithSpaces
+	^' ', self label, ' '

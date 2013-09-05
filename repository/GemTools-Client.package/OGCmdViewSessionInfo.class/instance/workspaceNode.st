@@ -1,0 +1,4 @@
+accessing
+workspaceNode
+
+	^target workspaceNode

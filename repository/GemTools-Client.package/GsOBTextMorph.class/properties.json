@@ -1,0 +1,14 @@
+{
+	"category" : "GemTools-Client-Morphic",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "GsOBTextMorph",
+	"pools" : [
+		 ],
+	"super" : "OBTextMorph",
+	"type" : "normal" }

@@ -1,0 +1,3 @@
+Browser
+withAllSuperclasses
+	^ super withAllSuperclasses asLocalObjectCopy

@@ -1,0 +1,22 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"initialize:" : "DaleHenrichs 12/1/2010 15:21",
+		"initializeInstanceVariables" : "dkh 3/30/2009 12:45",
+		"isAssignment" : "LM 10/9/2007 12:01",
+		"isKeyword" : "dkh 10/26/2007 11:50",
+		"isName" : "dkh 10/26/2007 11:52",
+		"isSelectorCharacter:" : "LM 10/9/2007 12:22",
+		"parseBracketArray" : "dkh 10/26/2007 13:56",
+		"parseKeyword" : "DaleHenrichs 12/2/2010 16:54",
+		"parseSymbolIdentifier" : "dkh 10/26/2007 11:47",
+		"parseTerm" : "DaleHenrichs 2/19/2010 16:19",
+		"parseUnary" : "dkh 11/13/2007 14:37",
+		"resolve:" : "dkh 12/3/2007 12:14",
+		"resolvePartial:" : "dkh 12/3/2007 12:14",
+		"resolvePartialPragmaArgument:" : "dkh 12/3/2007 12:13",
+		"resolvePragmaArgument:" : "dkh 12/3/2007 12:12",
+		"scanBinary" : "LM 10/9/2007 12:23",
+		"scanIdentifier" : "dkh 10/26/2007 11:48",
+		"scanNext" : "dkh 10/26/2007 11:55" } }

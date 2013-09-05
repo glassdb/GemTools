@@ -1,0 +1,5 @@
+Testing
+returnInteger
+
+	^42.
+	

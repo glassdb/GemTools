@@ -1,0 +1,14 @@
+{
+	"class" : {
+		"session:error:" : "JGF 4/6/2007 15:46",
+		"usePopUpOnDebug" : "dkh 3/27/2008 15:02",
+		"usePopUpOnDebug:" : "dkh 7/24/2008 09:51" },
+	"instance" : {
+		"clearStack" : "dkh 3/28/2008 12:25",
+		"contextStack" : "JGF 4/30/2007 13:01",
+		"errorReportOn:" : "JGF 4/9/2007 09:38",
+		"initialize:error:" : "dkh 8/14/2007 12:25",
+		"methodClass" : "dkh 7/16/2007 16:47",
+		"openDebugger:" : "dkh 12/18/2012 11:21",
+		"selector" : "JGF 4/9/2007 09:50",
+		"stackOfSize:" : "JGF 4/4/2007 16:53" } }

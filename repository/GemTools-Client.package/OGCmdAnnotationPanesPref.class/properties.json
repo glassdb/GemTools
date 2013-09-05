@@ -1,0 +1,14 @@
+{
+	"category" : "GemTools-Client-Launcher",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "OGCmdAnnotationPanesPref",
+	"pools" : [
+		 ],
+	"super" : "OGCmdBrowserPreference",
+	"type" : "normal" }

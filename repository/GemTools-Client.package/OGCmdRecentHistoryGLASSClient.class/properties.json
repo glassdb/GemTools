@@ -1,0 +1,14 @@
+{
+	"category" : "GemTools-Client-Obsolete",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "OGCmdRecentHistoryGLASSClient",
+	"pools" : [
+		 ],
+	"super" : "OGCmdHistoryGLASSClient",
+	"type" : "normal" }

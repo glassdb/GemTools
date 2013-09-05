@@ -1,0 +1,4 @@
+oop accesing
+GSName
+
+	^'MDLocalPanel'

@@ -1,0 +1,4 @@
+*gemTools-client
+textForGemStone
+
+	^text

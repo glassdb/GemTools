@@ -1,0 +1,14 @@
+{
+	"category" : "GemTools-Client-Launcher",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "OGCmdMakeBackup",
+	"pools" : [
+		 ],
+	"super" : "OGCmdAdmin",
+	"type" : "normal" }

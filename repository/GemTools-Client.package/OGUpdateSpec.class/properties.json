@@ -1,0 +1,17 @@
+{
+	"category" : "GemTools-Client-Upgrading",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"version",
+		"tag",
+		"preDoit",
+		"postDoit" ],
+	"name" : "OGUpdateSpec",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

@@ -1,0 +1,17 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"addCommand:label:to:" : "obi 3/7/2009 16:27",
+		"addCommand:selector:label:to:" : "obi 3/7/2009 16:29",
+		"addCommand:to:" : "obi 3/7/2009 16:30",
+		"announce:" : "dkh 12/21/2008 15:25",
+		"browser" : "dkh 12/21/2008 15:24",
+		"isMBLoaded" : "DaleHenrichs 3/8/2011 10:24",
+		"isMC2Loaded" : "dkh 2/12/2009 15:47",
+		"isSymbolListBrowserLoaded" : "dkh 3/28/2011 12:29",
+		"seaside30Installed" : "DaleHenrichs 7/9/2010 13:15",
+		"seasideInstalled" : "dkh 11/11/2009 10:03",
+		"session" : "dkh 3/2/2009 10:49",
+		"sessionNode" : "dkh 3/2/2009 10:49",
+		"update" : "dkh 12/22/2008 12:38" } }

@@ -1,0 +1,14 @@
+{
+	"category" : "GemTools-Client-Session",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "GsJadeServer",
+	"pools" : [
+		 ],
+	"super" : "GsObject",
+	"type" : "normal" }

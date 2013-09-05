@@ -1,0 +1,14 @@
+{
+	"category" : "GemTools-Client-Launcher",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "OGCmdOpenProcessBrowser",
+	"pools" : [
+		 ],
+	"super" : "OGCmdLauncher",
+	"type" : "normal" }

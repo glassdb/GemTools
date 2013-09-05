@@ -1,0 +1,18 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"accept:notifying:" : "dkh 12/25/2008 11:14",
+		"buildOn:" : "dkh 1/9/2009 11:19",
+		"color" : "dkh 1/9/2009 11:17",
+		"includesNode:" : "dkh 12/26/2008 16:39",
+		"isDefinition" : "dkh 12/26/2008 16:38",
+		"refresh:" : "dkh 1/9/2009 12:05",
+		"selection" : "dkh 12/25/2008 11:14",
+		"selectionChanged:" : "dkh 12/25/2008 11:17",
+		"statusColor" : "dkh 12/29/2008 16:57",
+		"statusHex" : "dkh 1/9/2009 12:05",
+		"subscribe" : "dkh 1/9/2009 12:04",
+		"testSummary" : "dkh 12/29/2008 16:57",
+		"text" : "dkh 1/9/2009 11:17",
+		"vResizing" : "dkh 12/25/2008 11:14" } }

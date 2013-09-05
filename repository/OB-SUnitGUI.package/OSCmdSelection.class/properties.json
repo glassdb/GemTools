@@ -1,0 +1,14 @@
+{
+	"category" : "OB-SUnitGUI-Commands",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "OSCmdSelection",
+	"pools" : [
+		 ],
+	"super" : "OSTestRunnerCommands",
+	"type" : "normal" }

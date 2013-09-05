@@ -1,0 +1,4 @@
+handler operations
+installStaticHandler
+
+	self session executeStringNB: self class staticHandlerInstallString

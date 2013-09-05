@@ -1,0 +1,14 @@
+{
+	"category" : "OB-SUnitGUI-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"Enabled" ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "OSTestCase",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

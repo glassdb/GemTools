@@ -1,0 +1,15 @@
+{
+	"class" : {
+		"disableFor:" : "obi 4/1/2009 20:53",
+		"enableFor:" : "obi 4/1/2009 20:53",
+		"preferenceAt:put:for:" : "obi 4/1/2009 20:51" },
+	"instance" : {
+		"baseLabel" : "obi 4/1/2009 20:40",
+		"disable:" : "obi 4/1/2009 20:24",
+		"enable:" : "obi 4/1/2009 20:24",
+		"execute" : "obi 4/1/2009 20:26",
+		"label" : "obi 4/1/2009 20:44",
+		"preference" : "obi 4/1/2009 20:47",
+		"preferenceAt:" : "dkh 11/10/2009 14:35",
+		"preferenceAt:put:" : "obi 4/1/2009 20:52",
+		"switch:" : "obi 4/1/2009 20:25" } }

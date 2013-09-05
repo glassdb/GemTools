@@ -1,0 +1,14 @@
+{
+	"category" : "GemTools-Client-Launcher",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "OGCmdRestoreFromBackupNoLogs",
+	"pools" : [
+		 ],
+	"super" : "OGCmdRestoreFromBackup",
+	"type" : "normal" }

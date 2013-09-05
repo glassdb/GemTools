@@ -1,0 +1,14 @@
+{
+	"category" : "GemTools-Client-Kernel-Proxies",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "GsFileDirectory",
+	"pools" : [
+		 ],
+	"super" : "GsObject",
+	"type" : "normal" }

@@ -1,0 +1,4 @@
+handler operations
+uninstallStaticHandler
+
+	self session executeStringNB: self class staticHandlerUninstallString

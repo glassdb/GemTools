@@ -1,0 +1,15 @@
+{
+	"category" : "GemTools-Client-OG",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"errorWasInUIProcess",
+		"interruptedProcess" ],
+	"name" : "GsOTDebugger",
+	"pools" : [
+		 ],
+	"super" : "GsOBBrowser",
+	"type" : "normal" }

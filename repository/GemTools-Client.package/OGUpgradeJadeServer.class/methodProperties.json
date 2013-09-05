@@ -1,0 +1,16 @@
+{
+	"class" : {
+		"gsClassDefinition" : "DaleHenrichs 7/22/2010 13:00" },
+	"instance" : {
+		"chooseVersion:" : "dkh 10/11/2011 04:40",
+		"do10beta17MetacelloPreload" : "DaleHenrichs 4/19/2010 15:13",
+		"doBasicMetacelloLoad:" : "dkh 11/18/2011 11:27",
+		"doGLASS10beta0Preload" : "DaleHenrichs 4/19/2010 14:46",
+		"doGLASS10beta8Postload" : "DaleHenrichs 5/5/2010 12:04",
+		"doMetacelloPreload" : "DaleHenrichs 4/21/2010 13:19",
+		"doVersionLoadFrom:to:" : "dkh 11/18/2011 14:26",
+		"forceMetacelloLoadDuring:" : "dkh 11/16/2011 14:17",
+		"fullDescriptions" : "DaleHenrichs 4/16/2010 16:33",
+		"glassProjectVersions" : "dkh 10/11/2011 04:02",
+		"mapGLASSConfigurationRepositories" : "DaleHenrichs 4/19/2010 14:45",
+		"upgradeGLASSServer" : "DaleHenrichs 3/8/2011 16:19" } }

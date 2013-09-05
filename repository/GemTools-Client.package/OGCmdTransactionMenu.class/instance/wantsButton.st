@@ -1,0 +1,3 @@
+accessing
+wantsButton
+	^self isActive

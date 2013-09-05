@@ -1,0 +1,14 @@
+{
+	"category" : "GemTools-Client-Launcher",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "OGCmdNewWorkspace",
+	"pools" : [
+		 ],
+	"super" : "OGCmdWorkspaces",
+	"type" : "normal" }

@@ -1,0 +1,14 @@
+{
+	"category" : "GemTools-Client-Launcher",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "OGCmdFindMethodWithCaseSensitiveString",
+	"pools" : [
+		 ],
+	"super" : "OGCmdFindMethodWithString",
+	"type" : "normal" }

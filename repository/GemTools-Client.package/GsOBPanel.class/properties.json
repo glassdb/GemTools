@@ -1,0 +1,15 @@
+{
+	"category" : "GemTools-Client-OG",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"announcer",
+		"browser" ],
+	"name" : "GsOBPanel",
+	"pools" : [
+		 ],
+	"super" : "GsObject",
+	"type" : "normal" }

@@ -1,0 +1,14 @@
+{
+	"category" : "OB-SUnitGUI-Commands",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "OSCmdRunProfiled",
+	"pools" : [
+		 ],
+	"super" : "OSCmdRunSelected",
+	"type" : "normal" }

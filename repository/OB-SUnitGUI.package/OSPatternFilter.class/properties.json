@@ -1,0 +1,14 @@
+{
+	"category" : "OB-SUnitGUI-Filters",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"pattern" ],
+	"name" : "OSPatternFilter",
+	"pools" : [
+		 ],
+	"super" : "OBFilter",
+	"type" : "normal" }

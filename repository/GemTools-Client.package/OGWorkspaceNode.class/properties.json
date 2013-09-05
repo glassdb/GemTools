@@ -1,0 +1,16 @@
+{
+	"category" : "GemTools-Client-Launcher",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"sessionNode",
+		"selectedWorkspaceName",
+		"workspaceView" ],
+	"name" : "OGWorkspaceNode",
+	"pools" : [
+		 ],
+	"super" : "OBNode",
+	"type" : "normal" }

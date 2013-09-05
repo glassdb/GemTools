@@ -1,0 +1,14 @@
+{
+	"category" : "GemTools-Client-Launcher",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "OGCmdBugReport",
+	"pools" : [
+		 ],
+	"super" : "OGCmdAdmin",
+	"type" : "normal" }

@@ -1,0 +1,13 @@
+{
+	"class" : {
+		"GSName" : "dkh 1/8/2009 11:27" },
+	"instance" : {
+		"buildOn:" : "dkh 12/29/2008 16:51",
+		"dragEnabled" : "dkh 12/30/2008 14:27",
+		"dropEnabled" : "dkh 12/30/2008 14:27",
+		"forwardedUpdate:" : "dkh 1/4/2009 10:10",
+		"listSelectionAt:" : "dkh 12/31/2008 10:16",
+		"listSelectionAt:put:" : "dkh 1/8/2009 12:09",
+		"multipleSelection" : "dkh 12/31/2008 09:26",
+		"refreshMultipleSelection" : "dkh 3/30/2009 12:41",
+		"selection:" : "dkh 12/31/2008 10:23" } }

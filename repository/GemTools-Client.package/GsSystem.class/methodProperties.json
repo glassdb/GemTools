@@ -1,0 +1,23 @@
+{
+	"class" : {
+		"backupDirectoryFor:" : "dkh 3/2/2009 11:24",
+		"backupFileEntry" : "dkh 3/6/2009 11:31",
+		"betaMailAddress" : "obi 3/7/2009 19:56",
+		"clientPackage" : "obi 2/28/2009 19:43",
+		"clientPackageName" : "obi 8/18/2009 20:04",
+		"clientVersionName" : "DaleHenrichs 3/3/2010 16:56",
+		"dataDirectoryFor:" : "dkh 3/2/2009 10:57",
+		"defaultBackupDirectory" : "dkh 3/2/2009 11:24",
+		"defaultBackupDirectoryName" : "dkh 3/2/2009 11:24",
+		"defaultDataDirectory" : "obi 2/28/2009 20:19",
+		"defaultSeasideBinDirectory" : "dkh 3/3/2009 16:33",
+		"glassBranch" : "obi 2/28/2009 19:53",
+		"glassClientReleaseUrl" : "dkh 3/7/2009 08:54",
+		"glassClientUrl" : "obi 2/28/2009 19:45",
+		"glassServerUrl" : "obi 2/28/2009 19:49",
+		"monticelloUrl" : "obi 2/28/2009 19:44",
+		"seasideBinDirectoryFor:" : "dkh 3/3/2009 16:34",
+		"serverPackageName" : "obi 2/28/2009 19:48",
+		"workspaceEntry" : "dkh 3/6/2009 11:32" },
+	"instance" : {
+		 } }

@@ -1,0 +1,4 @@
+accessing
+selectedWorkspaceName
+
+	^self workspaceNode selectedWorkspaceName

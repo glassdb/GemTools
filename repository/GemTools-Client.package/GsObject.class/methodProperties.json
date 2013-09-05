@@ -1,0 +1,24 @@
+{
+	"class" : {
+		"session:oopString:" : "JGF 5/8/2007 16:50",
+		"session:oopType:" : "JGF 4/4/2007 16:05",
+		"session:string:" : "dkh 2/18/2009 16:47",
+		"subClassObjectInSession:oopType:" : "dkh 1/21/2008 12:46",
+		"subClassObjectInSession:oopType:proxyClassName:" : "dkh 1/21/2008 12:46" },
+	"instance" : {
+		"asOopType" : "JGF 4/3/2007 17:33",
+		"at:" : "dkh 2/25/2008 16:25",
+		"browse" : "dkh 3/30/2009 12:42",
+		"displayOn:" : "JGF 4/22/2007 20:48",
+		"displayString" : "JGF 4/22/2007 20:47",
+		"doesNotUnderstand:" : "dkh 12/6/2007 15:57",
+		"explore" : "dkh 3/30/2009 12:43",
+		"gsPerform:" : "JGF 4/4/2007 14:13",
+		"gsPerform:with:" : "JGF 4/4/2007 14:23",
+		"gsPerform:withArguments:" : "dkh 12/6/2007 15:56",
+		"initialize:" : "JGF 5/8/2007 17:06",
+		"inspect" : "dkh 3/30/2009 12:43",
+		"oopType:" : "JGF 2/2/2007 08:57",
+		"printOn:" : "dkh 2/13/2009 11:41",
+		"session" : "JGF 2/2/2007 09:22",
+		"session:" : "JGF 2/2/2007 08:57" } }

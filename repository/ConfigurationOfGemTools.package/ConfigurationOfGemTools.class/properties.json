@@ -1,0 +1,14 @@
+{
+	"category" : "ConfigurationOfGemTools",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"project" ],
+	"name" : "ConfigurationOfGemTools",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

@@ -1,0 +1,4 @@
+testing
+wantsRecentHistory
+
+	^false

@@ -1,0 +1,14 @@
+{
+	"category" : "GemTools-Client-Morphic",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "GsOBPluggableTextMorphWithShout",
+	"pools" : [
+		 ],
+	"super" : "OBPluggableTextMorphWithShout",
+	"type" : "normal" }

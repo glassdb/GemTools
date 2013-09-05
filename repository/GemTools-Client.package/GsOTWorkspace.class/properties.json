@@ -1,0 +1,14 @@
+{
+	"category" : "GemTools-Client-OG",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"panel" ],
+	"name" : "GsOTWorkspace",
+	"pools" : [
+		 ],
+	"super" : "GsOBBrowser",
+	"type" : "normal" }

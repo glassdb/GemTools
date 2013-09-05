@@ -1,0 +1,14 @@
+{
+	"category" : "GemTools-Client-OG",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "GsOBAnnotationPanel",
+	"pools" : [
+		 ],
+	"super" : "GsOBTextPanel",
+	"type" : "normal" }

@@ -1,0 +1,16 @@
+{
+	"category" : "GemTools-Client-OG",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"owner",
+		"buttonLabel",
+		"isActive" ],
+	"name" : "GsOBCommand",
+	"pools" : [
+		 ],
+	"super" : "GsObject",
+	"type" : "normal" }

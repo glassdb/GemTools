@@ -1,0 +1,24 @@
+{
+	"class" : {
+		"annotationPanel" : "dkh 3/5/2009 14:31",
+		"defaultMetaNode" : "dkh 12/21/2008 13:15",
+		"defaultRootNode" : "dkh 12/21/2008 13:14",
+		"definitionPanel" : "dkh 12/22/2008 16:15",
+		"initialize" : "dkh 12/24/2008 13:56",
+		"optionalButtonPanel" : "dkh 12/21/2008 10:02",
+		"paneCount" : "obi 12/25/2008 19:13",
+		"panels" : "dkh 12/21/2008 12:38",
+		"startUp:" : "dkh 3/3/2009 16:00",
+		"title" : "dkh 11/2/2009 14:47" },
+	"instance" : {
+		"buildOn:" : "obi 12/25/2008 20:25",
+		"closeOnLogout" : "obi 12/25/2008 11:33",
+		"cmdManagenement" : "DaleHenrichs 3/3/2010 16:58",
+		"cmdSession" : "dkh 12/21/2008 15:26",
+		"cmdWindowLaunch" : "dkh 12/22/2008 13:25",
+		"defaultBackgroundColor" : "obi 12/26/2008 21:34",
+		"initialExtent" : "dkh 12/21/2008 12:33",
+		"setMetaNode:node:" : "dkh 12/21/2008 11:00",
+		"updateForStart" : "dkh 3/3/2009 16:02",
+		"windowIsClosing" : "dkh 12/22/2008 12:49",
+		"workspacePanel" : "dkh 12/22/2008 15:46" } }

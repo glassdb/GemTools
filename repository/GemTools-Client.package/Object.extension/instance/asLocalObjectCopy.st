@@ -1,0 +1,4 @@
+*gemTools-client
+asLocalObjectCopy
+
+	^self

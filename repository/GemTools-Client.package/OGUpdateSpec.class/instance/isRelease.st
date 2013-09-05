@@ -1,0 +1,3 @@
+testing
+isRelease
+	^tag == #release

@@ -1,0 +1,3 @@
+packages
+clientVersionName
+	^ConfigurationOfGemTools project currentVersion asString

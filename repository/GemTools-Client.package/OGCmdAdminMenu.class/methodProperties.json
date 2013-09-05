@@ -1,0 +1,18 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"browserPrefsMenu" : "GerhardObermann 8/29/2009 21:19",
+		"disableAll" : "GerhardObermann 8/29/2009 21:19",
+		"doItSubMenu" : "GerhardObermann 8/29/2009 21:25",
+		"enableAll" : "GerhardObermann 8/29/2009 21:20",
+		"execute" : "DaleHenrichs 6/16/2010 14:58",
+		"group" : "dkh 3/6/2009 11:03",
+		"label" : "dkh 3/6/2009 11:04",
+		"longDescription" : "dkh 3/6/2009 13:50",
+		"order" : "dkh 3/6/2009 11:06",
+		"repositoryMenu" : "DaleHenrichs 12/1/2010 19:30",
+		"seaside30GemsMenu" : "DaleHenrichs 6/16/2010 15:07",
+		"seasideGemsMenu" : "DaleHenrichs 6/16/2010 15:07",
+		"seasideGemsMenu:" : "DaleHenrichs 6/16/2010 15:06",
+		"wantsButton" : "dkh 3/6/2009 11:03" } }

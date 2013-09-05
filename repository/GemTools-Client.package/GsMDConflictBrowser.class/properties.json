@@ -1,0 +1,14 @@
+{
+	"category" : "GemTools-Client-OG",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "GsMDConflictBrowser",
+	"pools" : [
+		 ],
+	"super" : "GsOBBrowser",
+	"type" : "normal" }

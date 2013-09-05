@@ -1,0 +1,5 @@
+obsolete
+contextStack
+	
+	^self stack.
+	

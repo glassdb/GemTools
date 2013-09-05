@@ -1,0 +1,14 @@
+{
+	"category" : "GemTools-Client-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "GsTestResult",
+	"pools" : [
+		 ],
+	"super" : "GsObject",
+	"type" : "normal" }

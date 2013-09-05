@@ -1,0 +1,3 @@
+accessing
+pages
+	^ #(#step1GemstoneServerInstall #step2CustomExtentCreation #step3CustomExtentCreation #step3InstallGemTools #step4InstallationStep2Section #step5InstallationStep3Section #step6OpenGemToolsLauncher #step7StartStone #step8LogIntoServer #step9MakeABackupOfRepository #step10InstallationStep7Section #step11LoadGLASS231Equivalent)

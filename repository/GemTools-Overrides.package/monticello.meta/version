@@ -1,0 +1,1 @@
+(name 'GemTools-Overrides-DaleHenrichs.1' message '- if you are willing to stomp on existing methods, then this package makes selectors beginning with $_ selectable with a double click' id '91c5b261-0420-4186-b6e4-f393f8d59e80' date '02/19/2010' time '16:40:59' author 'DaleHenrichs' ancestors () stepChildren ())

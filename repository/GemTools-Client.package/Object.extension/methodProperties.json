@@ -1,0 +1,9 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"asLocalObjectCopy" : "dkh 1/21/2008 09:50",
+		"oopTypeFor:forGciLibrary:" : "DaleHenrichs 10/5/2010 15:51",
+		"performFromServer:with:argCount:using:" : "dkh 2/27/2008 20:25",
+		"performFromServer:with:using:" : "dkh 8/14/2007 09:18",
+		"performFromServer:withArg:using:" : "dkh 8/16/2007 09:10" } }

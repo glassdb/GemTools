@@ -1,0 +1,24 @@
+{
+	"category" : "GemTools-Client-Launcher",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"subject",
+		"subjectField",
+		"text",
+		"textField",
+		"from",
+		"fromField",
+		"to",
+		"toField",
+		"workArea",
+		"glassVersion",
+		"session" ],
+	"name" : "GsEmailEditor",
+	"pools" : [
+		 ],
+	"super" : "SystemWindow",
+	"type" : "normal" }

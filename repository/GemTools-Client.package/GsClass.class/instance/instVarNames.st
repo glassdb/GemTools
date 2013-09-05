@@ -1,0 +1,3 @@
+Browser
+instVarNames
+	self shouldBeImplemented

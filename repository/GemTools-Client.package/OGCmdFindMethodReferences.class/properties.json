@@ -1,0 +1,14 @@
+{
+	"category" : "GemTools-Client-Launcher",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "OGCmdFindMethodReferences",
+	"pools" : [
+		 ],
+	"super" : "OGCmdLauncher",
+	"type" : "normal" }

@@ -1,0 +1,4 @@
+callbacks
+backgroundColorAt: anInteger
+
+	^nil

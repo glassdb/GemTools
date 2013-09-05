@@ -1,0 +1,18 @@
+{
+	"category" : "GemTools-Client-OG",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"selection",
+		"text",
+		"node",
+		"nodeType",
+		"classOrMetaClass" ],
+	"name" : "GsOBDefinitionPanel",
+	"pools" : [
+		 ],
+	"super" : "GsOBTextPanel",
+	"type" : "normal" }

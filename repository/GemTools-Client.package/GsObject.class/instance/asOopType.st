@@ -1,0 +1,4 @@
+Tools Support
+asOopType
+
+	^oopType.

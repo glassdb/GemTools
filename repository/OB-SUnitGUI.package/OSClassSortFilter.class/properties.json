@@ -1,0 +1,14 @@
+{
+	"category" : "OB-SUnitGUI-Filters",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "OSClassSortFilter",
+	"pools" : [
+		 ],
+	"super" : "OBClassSortFilter",
+	"type" : "normal" }

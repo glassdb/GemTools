@@ -1,0 +1,3 @@
+accessing
+packageName
+	^GsSystem clientPackageName

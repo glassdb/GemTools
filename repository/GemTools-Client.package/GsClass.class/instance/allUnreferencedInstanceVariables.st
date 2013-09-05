@@ -1,0 +1,3 @@
+Browser
+allUnreferencedInstanceVariables
+	self shouldBeImplemented

@@ -1,0 +1,3 @@
+Browser
+precodeCommentOrInheritedCommentFor: aByteString 
+	self shouldBeImplemented

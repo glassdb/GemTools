@@ -1,0 +1,14 @@
+{
+	"category" : "GemTools-Client-Obsolete",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "OGCmdUpdateGLASS",
+	"pools" : [
+		 ],
+	"super" : "OGCmdAdmin",
+	"type" : "normal" }

@@ -1,0 +1,13 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"buttonLabelWithSpaces" : "dkh 3/7/2009 09:40",
+		"execute" : "dkh 3/6/2009 15:47",
+		"filter:" : "obi 3/3/2009 23:57",
+		"group" : "obi 3/3/2009 23:26",
+		"isActive" : "obi 3/3/2009 23:26",
+		"order" : "obi 3/3/2009 23:26",
+		"selectRecentVersionsFrom:" : "dkh 3/7/2009 09:59",
+		"wantsButton" : "obi 3/3/2009 23:26",
+		"wantsRecentHistory" : "dkh 3/6/2009 12:22" } }

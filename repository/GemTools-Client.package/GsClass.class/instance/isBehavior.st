@@ -1,0 +1,4 @@
+Testing
+isBehavior
+
+	^true

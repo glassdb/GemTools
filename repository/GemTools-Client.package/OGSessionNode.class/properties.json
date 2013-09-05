@@ -1,0 +1,23 @@
+{
+	"category" : "GemTools-Client-Launcher",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"session",
+		"sessionDescription",
+		"windowSessionNumber",
+		"autoAbort",
+		"autoCommit",
+		"autoMigrate",
+		"glassPackageName",
+		"usingMetacello",
+		"backupFileName",
+		"workspaceNode" ],
+	"name" : "OGSessionNode",
+	"pools" : [
+		 ],
+	"super" : "OBNode",
+	"type" : "normal" }

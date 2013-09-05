@@ -1,0 +1,14 @@
+{
+	"category" : "GemTools-Client-Launcher",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "OGCmdSessionManagement",
+	"pools" : [
+		 ],
+	"super" : "OGCmdAbstractLauncher",
+	"type" : "normal" }

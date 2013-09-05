@@ -1,0 +1,14 @@
+{
+	"category" : "GemTools-Client-Morphic",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "GsOBMorphicPlatform",
+	"pools" : [
+		 ],
+	"super" : "OBMorphicPlatform",
+	"type" : "normal" }

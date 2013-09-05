@@ -1,0 +1,3 @@
+commands
+cmdSession
+	^ OGCmdSession allSubclasses

@@ -1,0 +1,14 @@
+{
+	"class" : {
+		"commitThreshold" : "DaleHenrichs 4/19/2010 16:25",
+		"commitThreshold:" : "DaleHenrichs 4/19/2010 16:24",
+		"staticHandlerInstallString" : "DaleHenrichs 4/19/2010 16:32",
+		"staticHandlerInstalledString" : "DaleHenrichs 4/19/2010 16:21",
+		"staticHandlerUninstallString" : "DaleHenrichs 4/19/2010 16:32" },
+	"instance" : {
+		"execute" : "DaleHenrichs 4/19/2010 16:27",
+		"installStaticHandler" : "DaleHenrichs 4/19/2010 16:26",
+		"label" : "DaleHenrichs 4/19/2010 16:27",
+		"longDescription" : "DaleHenrichs 4/19/2010 16:04",
+		"staticHandlerInstalled" : "DaleHenrichs 4/19/2010 16:26",
+		"uninstallStaticHandler" : "DaleHenrichs 4/19/2010 16:27" } }

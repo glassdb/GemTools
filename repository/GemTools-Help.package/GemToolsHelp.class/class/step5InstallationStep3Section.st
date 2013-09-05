@@ -1,0 +1,4 @@
+installation chapter
+step5InstallationStep3Section 
+
+	^GemToolsSessionHelp asHelpTopic

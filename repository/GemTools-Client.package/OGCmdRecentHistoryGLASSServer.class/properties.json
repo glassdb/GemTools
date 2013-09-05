@@ -1,0 +1,14 @@
+{
+	"category" : "GemTools-Client-Launcher",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "OGCmdRecentHistoryGLASSServer",
+	"pools" : [
+		 ],
+	"super" : "OGCmdHistoryGLASSServer",
+	"type" : "normal" }

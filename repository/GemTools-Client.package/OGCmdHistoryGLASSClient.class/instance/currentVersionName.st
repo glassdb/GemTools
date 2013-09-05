@@ -1,0 +1,4 @@
+private
+currentVersionName
+
+	^GsSystem clientVersionName

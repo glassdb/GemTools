@@ -1,0 +1,5 @@
+framework
+errorTypeClass
+
+	self subclassResponsibility.
+	

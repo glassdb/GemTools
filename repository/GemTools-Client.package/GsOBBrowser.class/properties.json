@@ -1,0 +1,21 @@
+{
+	"category" : "GemTools-Client-OG",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"ClassCache" ],
+	"commentStamp" : "",
+	"instvars" : [
+		"session",
+		"windowSessionNumber",
+		"oopType",
+		"defaultLabel",
+		"labelString",
+		"defaultBackgroundColor",
+		"hasChanges",
+		"wantsStepsIn" ],
+	"name" : "GsOBBrowser",
+	"pools" : [
+		 ],
+	"super" : "OBBrowser",
+	"type" : "normal" }

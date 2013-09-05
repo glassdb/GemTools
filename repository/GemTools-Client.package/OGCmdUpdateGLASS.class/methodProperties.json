@@ -1,0 +1,13 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"chooseFromAllPackages:bold:" : "dkh 3/8/2009 18:21",
+		"choosePackageVersionFrom:" : "dkh 3/8/2009 18:22",
+		"execute" : "DaleHenrichs 3/2/2010 15:04",
+		"isActive" : "dkh 11/2/2009 15:36",
+		"label" : "dkh 2/27/2009 10:42",
+		"longDescription" : "dkh 2/27/2009 10:42",
+		"prompt:chooseFrom:values:lines:" : "obi 3/4/2009 20:00",
+		"updateSpecsFor:" : "obi 3/4/2009 20:33",
+		"updateTo:from:" : "DaleHenrichs 3/2/2010 15:57" } }

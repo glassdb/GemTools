@@ -1,0 +1,4 @@
+constructing
+maxMultipleSelectionPanes
+
+	^maxMultipleSelectionPanes

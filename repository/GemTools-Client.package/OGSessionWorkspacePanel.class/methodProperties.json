@@ -1,0 +1,21 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"abortTransaction" : "dkh 12/22/2008 17:14",
+		"accept:notifying:" : "dkh 12/22/2008 16:53",
+		"addMoreToMenu:" : "dkh 12/22/2008 17:07",
+		"buildOn:" : "dkh 1/13/2009 10:44",
+		"commitTransaction" : "dkh 12/22/2008 17:14",
+		"doItContext" : "dkh 12/24/2008 16:24",
+		"doItReceiver" : "dkh 2/20/2009 16:20",
+		"isLoggedIn" : "DaleHenrichs 2/24/2010 15:16",
+		"isWorkspace" : "dkh 12/22/2008 15:45",
+		"menu:shifted:selection:" : "JohanBrichau 10/18/2010 23:00",
+		"refresh:" : "obi 8/18/2009 21:25",
+		"selectedClass" : "dkh 12/24/2008 16:25",
+		"selection" : "dkh 12/22/2008 16:24",
+		"session" : "DaleHenrichs 2/20/2010 07:37",
+		"shoutAboutToStyle:" : "DaleHenrichs 2/20/2010 08:41",
+		"subscribe" : "dkh 12/22/2008 16:08",
+		"text" : "dkh 12/22/2008 16:20" } }

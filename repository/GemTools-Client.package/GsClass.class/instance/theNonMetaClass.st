@@ -1,0 +1,5 @@
+Browser
+theNonMetaClass
+	
+	^self thisClass.
+	

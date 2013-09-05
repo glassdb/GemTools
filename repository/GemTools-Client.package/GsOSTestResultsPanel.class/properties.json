@@ -1,0 +1,15 @@
+{
+	"category" : "GemTools-Client-OG",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"text",
+		"morph" ],
+	"name" : "GsOSTestResultsPanel",
+	"pools" : [
+		 ],
+	"super" : "GsOBTextPanel",
+	"type" : "normal" }

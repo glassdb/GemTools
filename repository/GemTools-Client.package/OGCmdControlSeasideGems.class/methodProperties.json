@@ -1,0 +1,15 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"args" : "DaleHenrichs 7/9/2010 11:52",
+		"restart" : "dkh 3/6/2009 11:14",
+		"restartSeasideGems:" : "DaleHenrichs 6/16/2010 15:03",
+		"restartSeasideGems:scriptName:" : "DaleHenrichs 7/9/2010 11:52",
+		"runSeasideGemsScriptName" : "DaleHenrichs 6/16/2010 15:02",
+		"start" : "dkh 3/6/2009 11:14",
+		"startSeasideGems:" : "DaleHenrichs 6/16/2010 15:04",
+		"startSeasideGems:scriptName:" : "DaleHenrichs 7/9/2010 11:52",
+		"stop" : "dkh 3/6/2009 11:14",
+		"stopSeasideGems:" : "DaleHenrichs 6/16/2010 15:04",
+		"stopSeasideGems:scriptName:" : "DaleHenrichs 7/9/2010 11:52" } }

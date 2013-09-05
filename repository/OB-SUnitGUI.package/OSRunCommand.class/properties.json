@@ -1,0 +1,15 @@
+{
+	"category" : "OB-SUnitGUI-Commands",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"result",
+		"lastUpdate" ],
+	"name" : "OSRunCommand",
+	"pools" : [
+		 ],
+	"super" : "OSTestRunnerCommands",
+	"type" : "normal" }

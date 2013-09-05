@@ -1,0 +1,14 @@
+{
+	"category" : "GemTools-Client-Kernel-Proxies",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "GsSequenceableCollection",
+	"pools" : [
+		 ],
+	"super" : "GsCollection",
+	"type" : "normal" }

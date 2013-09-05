@@ -1,0 +1,17 @@
+{
+	"category" : "GemTools-Client-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"resource",
+		"session",
+		"library",
+		"clientForwarderValue" ],
+	"name" : "GsClientTestCase",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

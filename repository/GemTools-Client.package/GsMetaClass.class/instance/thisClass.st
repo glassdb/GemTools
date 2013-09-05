@@ -1,0 +1,5 @@
+Accessors
+thisClass
+
+	^thisClass.
+	

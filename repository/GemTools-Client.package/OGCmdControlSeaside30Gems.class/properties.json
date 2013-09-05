@@ -1,0 +1,14 @@
+{
+	"category" : "GemTools-Client-Launcher",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "OGCmdControlSeaside30Gems",
+	"pools" : [
+		 ],
+	"super" : "OGCmdControlSeasideGems",
+	"type" : "normal" }

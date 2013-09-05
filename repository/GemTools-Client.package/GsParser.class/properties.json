@@ -1,0 +1,17 @@
+{
+	"category" : "GemTools-Client-ShoutParser",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"session",
+		"gemstonePlatform",
+		"ivCache",
+		"internedSymbolCache" ],
+	"name" : "GsParser",
+	"pools" : [
+		 ],
+	"super" : "SHParserST80",
+	"type" : "normal" }
